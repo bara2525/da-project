@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Espresso Roast",
+    "price": 199,
+    "description": "Siln\u00e1 a intenzivn\u00ed chu\u0165 s tmav\u00fdm pra\u017een\u00edm.",
+    "image": "/images/espresso.jpg",
+    "origin": "Italy"
+  },
+  {
+    "id": "2",
+    "name": "Colombian Blend",
+    "price": 249,
+    "description": "Hladk\u00e1 chu\u0165 s t\u00f3ny karamelu a o\u0159\u00ed\u0161k\u016f.",
+    "image": "/images/colombian.jpg",
+    "origin": "Colombia"
+  },
+  {
+    "id": "3",
+    "name": "Ethiopian Arabica",
+    "price": 229,
+    "description": "Exotick\u00e1 a kv\u011btinov\u00e1 v\u016fn\u011b s n\u00e1dechem citrus\u016f.",
+    "image": "/images/ethiopian.jpg",
+    "origin": "Ethiopia"
+  },
+  {
+    "id": "4",
+    "name": "Brazil Santos",
+    "price": 189,
+    "description": "Lehk\u00e1 a sladk\u00e1 chu\u0165, vhodn\u00e1 pro filtrovanou k\u00e1vu.",
+    "image": "/images/brazil.jpg",
+    "origin": "Brazil"
+  },
+  {
+    "id": "5",
+    "name": "Sumatra Mandheling",
+    "price": 269,
+    "description": "Zemit\u00e1 chu\u0165 s n\u00edzkou kyselost\u00ed a pln\u00fdm t\u011blem.",
+    "image": "/images/sumatra.jpg",
+    "origin": "Sumatra"
+  },
+  {
+    "id": "6",
+    "name": "Guatemala Antigua",
+    "price": 259,
+    "description": "Bohat\u00e1 chu\u0165 s n\u00e1znaky \u010dokol\u00e1dy a ko\u0159en\u00ed.",
+    "image": "/images/guatemala.jpg",
+    "origin": "Guatemala"
+  }
+]
